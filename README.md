@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there. I'm Neko 👋
 
-<!--
-**FaultyNeko/FaultyNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎮 I'm a passionate game programmer and designer with a love for Unreal Engine 5.
+🌱 Constantly learning and growing in the field of game development.
+💡 Fascinated by the intersection of gaming and new technologies.
 
-Here are some ideas to get you started:
+## Skills
+- Unreal Engine 5
+- Game Design
+- Programing
+- Native English and Spanish speaker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aspirations
+One of my biggest dreams is to start my own game studio. I am particularly drawn to the genre of science fiction, and I envision creating games that not only entertain but also immerse players in thought-provoking sci-fi worlds. My goal is to blend innovative gameplay with captivating narratives to craft unique gaming experiences.  
